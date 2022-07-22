@@ -1,33 +1,33 @@
 export const Users = [
   {
     id:1,
-    profilePicture: "person/1.jpeg",
-    username: "Safak Kocaoglu",
+    profilePicture: "person/jony.jpeg.jpg",
+    username: "Zunaid Rohman Jony",
   },
   {
     id:2,
-    profilePicture: "person/2.jpeg",
-    username: "Janell Shrum",
+    profilePicture: "person/prionto.jpg",
+    username: "Prionto Abdullah",
   },
   {
     id:3,
-    profilePicture: "person/3.jpeg",
-    username: "Alex Durden",
+    profilePicture: "person/33.jpg",
+    username: "Salauddin Ayub",
   },
   {
     id:4,
-    profilePicture: "person/4.jpeg",
-    username: "Dora Hawks",
+    profilePicture: "person/44.jpg",
+    username: "Shahed Talukder",
   },
   {
     id:5,
-    profilePicture: "person/5.jpeg",
-    username: "Thomas Holden",
+    profilePicture: "person/55.jpg",
+    username: "Mafiya the boss",
   },
   {
     id:6,
-    profilePicture: "person/6.jpeg",
-    username: "Shirley Beauchamp",
+    profilePicture: "person/66.jpg",
+    username: "Masud Rana",
   },
   {
     id:7,
