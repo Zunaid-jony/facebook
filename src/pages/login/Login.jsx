@@ -24,8 +24,6 @@ export default function Login() {
           <h3 className="loginLogo">Facebook</h3>
           <span className="loginDesc">
             Connect with friends and the world around you on Facebook.
-            Connect with friends and the world around you on Facebook.
-            Connect with friends andook.
           </span>
         </div>
         <div className="loginRight">
