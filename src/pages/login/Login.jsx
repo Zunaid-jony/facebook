@@ -6,7 +6,6 @@ import { CircularProgress } from "@material-ui/core";
 
 export default function Login() {
   const email = useRef();
-  const email = useRef();
   const password = useRef();
   const { isFetching, dispatch } = useContext(AuthContext);
 
